@@ -135,7 +135,7 @@
                         <strong>(Minimum 45” to drive, no taller than 58”)</strong></li>
                     <li>Dizzy Drums <br />
                         <strong>(Minimum height requirement 35”, between 35” and 44” must ride with an adult)</strong></li>
-                    <li>Miniature Train <br />
+                    <li>Old Western Train <br />
                         <strong>(Ages 2 and up, not intended for adults)</strong></li>
                 </ul>
 
@@ -154,7 +154,7 @@
                         <strong>(Minimum of 58” to drive)</strong></h3>
                     <ul class="expand">
                         <li>Double Go-Karts <br />
-                            <strong>(Driver 58” AND 18 years old,<br />Passenger 40” up to 56”)</strong></li>
+                            <strong>(Minimum height requirement 40")</strong></li>
                     </ul>
 
                 </div>
@@ -202,8 +202,8 @@
     </div>
 </section>
     <picture>
-        <source media="(min-width: 992px)" srcset="<?=IMGURL ?>bg-party.jpg" alt="Party" class="full-size">
-        <img src="<?=IMGURL ?>bg-party-small.jpg" alt="Party" class="full-size">
+        <source media="(min-width: 992px)" srcset="<?=IMGURL ?>bg-party.jpg" alt="Kids Party Hall" class="full-size">
+        <img src="<?=IMGURL ?>bg-party-small.jpg" alt="Birthday Parties" class="full-size">
     </picture>
 
 <section class="home-module-8">
@@ -225,7 +225,7 @@
                 </p></div>
             </div>
             <div class="col-md-6 flex-col">
-                <img src="<?=IMGURL?>pinball.jpg" alt="Pinball" class="hidden-sm hidden-xs" />
+                <img src="<?=IMGURL?>pinball.jpg" alt="Fun Things to do in El Paso, Family Fun" class="hidden-sm hidden-xs" />
             </div>
         </div>
     </div>
@@ -251,7 +251,7 @@
 </section>
     <img src="<?=IMGURL?>train-sm.jpg" alt="Pinball" class="visible-xs visible-sm" />
 
-    <img src="<?=IMGURL ?>bg-boats-bottom.jpg" alt="Boats" class="full-size hidden-xs hidden-sm" />
+    <img src="<?=IMGURL ?>bg-boats-bottom.jpg" alt="Fun Things to do in El Paso, Family Fun" class="full-size hidden-xs hidden-sm" />
 
 <section class="home-module-10">
     <div class="container">

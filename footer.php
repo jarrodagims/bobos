@@ -51,6 +51,20 @@
                             <p class="visible-xs">Sunday - Thursday: <strong>12pm - 9pm</strong><br />
                                 <span class="br-xs">Friday - Saturday: <strong>10am - 11pm</strong></span>
                             </p>
+							
+							<!--p class="hidden-xs">Tuesday: <strong>10:00am - 9:00pm</strong><br />
+								Wednesday: <strong>10:00am - 8:00pm</strong><br />
+                            	Thursday: <strong>CLOSED for Thanksgiving</strong><br />
+								Friday-Saturday: <strong>10:00am - 11:00pm</strong><br />
+								Sunday: <strong>12:00pm-9:00pm</strong><br />
+                            </p>
+
+                            <p class="visible-xs">Tuesday: <strong>10am - 9pm</strong><br />
+								<span class="br-xs">Wednesday: <strong>10am - 8pm</strong></span><br />
+                            	<span class="br-xs">Thursday: <strong>CLOSED for Thanksgiving</strong></span><br />
+								<span class="br-xs">Friday-Saturday: <strong>10am - 11pm</strong></span><br />
+                                <span class="br-xs">Sunday: <strong>12am - 9pm</strong></span>
+                            </p-->
                         </div>
                     </div>
 
