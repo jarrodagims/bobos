@@ -1,24 +1,24 @@
 @mixin svg-map($color) {
   &::before {
-  	background-image: url('data:image/svg+xml;utf8,%3Csvg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%2014.4%2020.7"%3E%3Cg%20fill="%23#{$color}"%20id="Layer_2"%20data-name="Layer%202"%3E%3Cg%20id="Layer_6"%20data-name="Layer%206"%3E%3Cpath%20id="_7"%20data-name="7"%20%20d="M7.2,0A7.21,7.21,0,0,0,0,7.2c0,1.89,1.17,4.72,3.49,8.42,1.71,2.72,3.45,4.94,3.46,5a.32.32,0,0,0,.25.12h0a.3.3,0,0,0,.25-.12s1.75-2.26,3.46-5c2.32-3.71,3.49-6.53,3.49-8.38A7.21,7.21,0,0,0,7.2,0Zm0,10.67A3.47,3.47,0,1,1,10.67,7.2,3.47,3.47,0,0,1,7.2,10.67Z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
-  	content: '';
-  	display: block;
-  	width: 16px;
-  	height: 16px;
-  	background-repeat: no-repeat;
-  	background-position: center center;
+    background-image: url('data:image/svg+xml;utf8,%3Csvg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%2014.4%2020.7"%3E%3Cg%20fill="%23#{$color}"%20id="Layer_2"%20data-name="Layer%202"%3E%3Cg%20id="Layer_6"%20data-name="Layer%206"%3E%3Cpath%20id="_7"%20data-name="7"%20%20d="M7.2,0A7.21,7.21,0,0,0,0,7.2c0,1.89,1.17,4.72,3.49,8.42,1.71,2.72,3.45,4.94,3.46,5a.32.32,0,0,0,.25.12h0a.3.3,0,0,0,.25-.12s1.75-2.26,3.46-5c2.32-3.71,3.49-6.53,3.49-8.38A7.21,7.21,0,0,0,7.2,0Zm0,10.67A3.47,3.47,0,1,1,10.67,7.2,3.47,3.47,0,0,1,7.2,10.67Z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+    content: "";
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
 }
 
 @mixin svg-contact($color) {
   &::before {
-  	background-image: url('data:image/svg+xml;utf8,%3Csvg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%2013.39%2019.79"%3E%3Cg%20fill="%23#{$color}"%20id="Layer_2"%20data-name="Layer%202"%3E%3Cg%20id="Layer_6"%20data-name="Layer%206"%3E%3Cpath%20id="_8"%20data-name="8"%20%20d="M13.26,17.51l-1.47-2.92a1.37,1.37,0,0,0-1.22-.73,1.58,1.58,0,0,0-.38.05l-1.75.43c-.26-.2-1.06-1-2.5-3.86s-1.59-4-1.59-4.26l1.48-1A1.2,1.2,0,0,0,6.3,3.68L4.83.75A1.41,1.41,0,0,0,3.56,0,1.45,1.45,0,0,0,2.8.21L1.92.74a3.63,3.63,0,0,0-1.64,2A7,7,0,0,0,.05,5.61a20,20,0,0,0,2.12,6.5,22.82,22.82,0,0,0,3.48,5.17c1.56,1.66,3.1,2.51,4.57,2.51a3.76,3.76,0,0,0,1.19-.2l1-.28a1.41,1.41,0,0,0,.86-.72A1.21,1.21,0,0,0,13.26,17.51Z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
-    content: '';
-  	display: block;
-  	width: 16px;
-  	height: 16px;
-  	background-repeat: no-repeat;
-  	background-position: center center;
+    background-image: url('data:image/svg+xml;utf8,%3Csvg%20xmlns="http://www.w3.org/2000/svg"%20viewBox="0%200%2013.39%2019.79"%3E%3Cg%20fill="%23#{$color}"%20id="Layer_2"%20data-name="Layer%202"%3E%3Cg%20id="Layer_6"%20data-name="Layer%206"%3E%3Cpath%20id="_8"%20data-name="8"%20%20d="M13.26,17.51l-1.47-2.92a1.37,1.37,0,0,0-1.22-.73,1.58,1.58,0,0,0-.38.05l-1.75.43c-.26-.2-1.06-1-2.5-3.86s-1.59-4-1.59-4.26l1.48-1A1.2,1.2,0,0,0,6.3,3.68L4.83.75A1.41,1.41,0,0,0,3.56,0,1.45,1.45,0,0,0,2.8.21L1.92.74a3.63,3.63,0,0,0-1.64,2A7,7,0,0,0,.05,5.61a20,20,0,0,0,2.12,6.5,22.82,22.82,0,0,0,3.48,5.17c1.56,1.66,3.1,2.51,4.57,2.51a3.76,3.76,0,0,0,1.19-.2l1-.28a1.41,1.41,0,0,0,.86-.72A1.21,1.21,0,0,0,13.26,17.51Z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+    content: "";
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-position: center center;
   }
 }
 
@@ -36,13 +36,14 @@
 				<use xlink:href="%23SVGID_1_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(%23SVGID_2_)">
-				
+			<defs>
 					<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1503.2118" y1="-7151.9165" x2="-1502.2118" y2="-7151.9165" gradientTransform="matrix(19.69 0 0 19.69 29593.5 140831.0781)">
 					<stop  offset="0" style="stop-color:%23952BDC"/>
 					<stop  offset="5.000000e-02" style="stop-color:%23952BDC"/>
 					<stop  offset="0.54" style="stop-color:%238B17FF"/>
 					<stop  offset="1" style="stop-color:%234100D7"/>
 				</linearGradient>
+				</defs>
 				<rect fill="url(%23SVGID_3_)" width="19.7" height="19.7"/>
 			</g>
 		</g>
@@ -54,13 +55,14 @@
 				<use xlink:href="%23SVGID_4_"  overflow="visible"/>
 			</clipPath>
 			<g clip-path="url(%23SVGID_5_)">
-				
+			<defs>
 					<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-1472.3644" y1="-7122.8066" x2="-1471.3644" y2="-7122.8066" gradientTransform="matrix(5.56 0 0 5.56 8194.2705 39612.6484)">
 					<stop  offset="0" style="stop-color:%23952BDC"/>
 					<stop  offset="5.000000e-02" style="stop-color:%23952BDC"/>
 					<stop  offset="0.54" style="stop-color:%238B17FF"/>
 					<stop  offset="1" style="stop-color:%234100D7"/>
 				</linearGradient>
+				</defs>
 				<rect x="7.6" y="4.7" fill="url(%23SVGID_6_)" width="5.6" height="10.3"/>
 			</g>
 		</g>
@@ -100,7 +102,7 @@
 
 @mixin svg-chevron($color) {
   background-image: url('data:image/svg+xml;utf8,<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.5 6.8" style="enable-background:new 0 0 6.5 6.8;" xml:space="preserve"><g id="Layer_2_1_"><g id="Layer_5"><polygon style="fill:%23FFFFFF;" points="5.3,3.4 2.5,6.1 3.2,6.8 6.5,3.4 3.2,0 2.5,0.6 		"/>
-		<polygon style="fill:%23FFFFFF;" points="2.7,3.4 0,6.1 0.6,6.8 4,3.4 0.6,0 0,0.6 		"/></g></g></svg>')
+		<polygon style="fill:%23FFFFFF;" points="2.7,3.4 0,6.1 0.6,6.8 4,3.4 0.6,0 0,0.6 		"/></g></g></svg>');
 }
 
 @mixin svg-chevron($color) {
@@ -133,7 +135,6 @@
 
 /* Icon Up */
 @mixin icon-up {
-
   svg {
     transform: translateZ(0);
   }
@@ -141,9 +142,8 @@
   &:hover,
   &:focus,
   &:active {
-
     svg {
-      animation: hover-icon-up .75s ease-out;
+      animation: hover-icon-up 0.75s ease-out;
     }
   }
 }

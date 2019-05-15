@@ -1,11 +1,11 @@
-.page-template-page-landing {
-
+.page-template-page-landing,
+.page-template-page-landing-es {
   .jumbo {
     text-align: center;
     padding: 2em 0 4em;
 
     h1 span.red {
-      color: #EC1C24;
+      color: #ec1c24;
       font-weight: 700;
     }
 
@@ -34,16 +34,15 @@
       }
     }
 
-      p {
-        line-height: 2; 
-        font-size: 19px;
-      }
+    p {
+      line-height: 2;
+      font-size: 19px;
+    }
   }
 
   .column {
     width: 33.33%;
     margin-right: 18px;
-
 
     &:last-child {
       margin-right: 0;
@@ -56,44 +55,41 @@
 
   .card {
     width: auto;
-
   }
 
-
   .card-title {
-    background: #1A1A1A;
+    background: #1a1a1a;
     color: $white;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     position: relative;
     line-height: 1;
     margin-top: auto;
-    padding: .65em 0;
-      
+    padding: 0.65em 0;
 
     h3 {
       font-weight: 700;
       color: $white;
       margin: 0 0;
-      font-family: 'Poppins', sans-serif;
+      font-family: "Poppins", sans-serif;
     }
 
     p {
       font-size: 19px;
       font-weight: 300;
-      color: #E6E6E6;
+      color: #e6e6e6;
       margin-bottom: 0;
     }
   }
 
   .card-text {
-    background: #E6E6E6;
-    color: #1A1A1A;
-    font-family: 'Poppins', sans-serif;
+    background: #e6e6e6;
+    color: #1a1a1a;
+    font-family: "Poppins", sans-serif;
     padding: 2em 0;
 
     p {
       line-height: 1.4;
-      margin-bottom: .25em;
+      margin-bottom: 0.25em;
     }
 
     .price {
@@ -124,22 +120,22 @@
     color: $white;
     padding: 1em 0;
     font-size: 19px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
   }
 
   .card-bottom {
-    background: #F2F2F2;
+    background: #f2f2f2;
     padding: 4.5em 3em;
     text-align: center;
-    @include dropshadow(); 
+    @include dropshadow();
   }
 
   strong.header {
-    margin-bottom: .5em;
-    color: #1A1A1A;
+    margin-bottom: 0.5em;
+    color: #1a1a1a;
     display: block;
     font-size: 19px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
   }
 
   .bottom-section {
@@ -148,7 +144,7 @@
     flex: 1;
 
     strong {
-      font-family: 'Poppins', sans-serif;
+      font-family: "Poppins", sans-serif;
     }
 
     ul {
@@ -159,7 +155,6 @@
   }
 
   @media screen and (min-width: $screen-md-min) {
-
     .bottom-section {
       flex: 1;
       height: 100%;
@@ -172,12 +167,10 @@
         display: block;
       }
 
-       ul {
+      ul {
         padding: 0 0 2em;
       }
     }
-
-   
 
     .card-text .bigger {
       font-size: 21px;
@@ -191,10 +184,9 @@
     .card-title-3 {
       padding: 2.5em 0;
 
-      
       &::before {
-        content: '';
-        background: #0093B0;
+        content: "";
+        background: #0093b0;
         position: absolute;
         width: 150vw;
         z-index: -1;
@@ -207,7 +199,7 @@
 
   @media screen and (max-width: $grid-float-breakpoint-max) {
     .bottom-section {
-        background: $white;
+      background: $white;
     }
 
     .column {
@@ -216,9 +208,6 @@
   }
 
   @media screen and (max-width: $screen-sm-max) {
-
-   
-      
     .card-bottom {
       padding: 2em;
 
@@ -226,32 +215,30 @@
         margin: 0 0;
       }
     }
-     
-     .jumbo {
-       h1 {
-         margin-bottom: 1em;
-       }
 
-       p {
-         margin-bottom: 1em;
-         font-size: 16px;
-       }
+    .jumbo {
+      h1 {
+        margin-bottom: 1em;
+      }
 
-       a {
-         margin-top: 0;
-       }
+      p {
+        margin-bottom: 1em;
+        font-size: 16px;
+      }
+
+      a {
+        margin-top: 0;
+      }
 
       .btn {
         width: auto;
         padding: 1.5em 4em;
       }
 
-       padding: 3em 0;
-     }
-    
-    .column {
-      
+      padding: 3em 0;
+    }
 
+    .column {
       .card {
         margin-top: 0;
         margin-bottom: 0;
@@ -279,13 +266,9 @@
       margin-top: 2em;
     }
   }
-
 }
 
-
-
 .landing-module-1 {
-  
   overflow: hidden;
   padding-bottom: 3em;
 
@@ -305,8 +288,8 @@
   .cards-header {
     position: relative;
     &::before {
-      content: '';
-      background: #0093B0;
+      content: "";
+      background: #0093b0;
       position: absolute;
       width: 150vw;
       z-index: -1;
@@ -328,61 +311,50 @@
     width: 330px;
     @include dropshadow();
 
-
     &:hover {
       @include red-gradient();
     }
-
   }
 
   @media screen and (min-width: $screen-lg-min) {
-    background: url('../img/bg-landing-triangles.png') right 0 no-repeat;
+    background: url("../img/bg-landing-triangles.png") right 0 no-repeat;
     background-size: auto 100%;
   }
 
   @media screen and (min-width: $screen-md-min) {
-  
-
-   .cards-header {
-     padding-top: 1em;
-     padding-bottom: 5em;
-   }
+    .cards-header {
+      padding-top: 1em;
+      padding-bottom: 5em;
+    }
 
     h2 {
       position: absolute;
     }
   }
 
-
   @media screen and (max-width: $grid-float-breakpoint-max) {
+    padding-top: 1em;
 
-     padding-top: 1em;
-
-      .cards-header {
-         background: #0093B0;
-         text-align: center;
-      }
+    .cards-header {
+      background: #0093b0;
+      text-align: center;
+    }
   }
 
   @media screen and (max-width: $screen-sm-max) {
-
-   
-   
-
     .cards-header {
       margin-bottom: 2em;
 
       h2 {
         font-size: 1.5em;
-        padding: 1em .5em;
+        padding: 1em 0.5em;
       }
     }
   }
 }
 
-
 .landing-module-2 {
-  background: #F2F2F2;
+  background: #f2f2f2;
   padding: 91px 0;
 
   strong.header {
@@ -395,9 +367,8 @@
     margin-bottom: 2em;
   }
 
-
   strong {
-    color: #1A1A1A;
+    color: #1a1a1a;
   }
 
   p {
@@ -434,7 +405,7 @@
       margin-bottom: 1em;
     }
 
-    .col.flex-row { 
+    .col.flex-row {
       text-align: center;
 
       .col {
@@ -450,7 +421,7 @@
   strong.header {
     color: #606060;
   }
-  
+
   .brand {
     color: $sherpa-secondary-color;
   }
@@ -458,22 +429,20 @@
   .btn {
     @include red-gradient();
 
-
     &:hover {
       @include red-gradient();
     }
   }
 
   .box {
-    background: #F2F2F2;
+    background: #f2f2f2;
     padding: 3em;
   }
 
   strong.header {
-
     &.arrow {
       &::before {
-        content: '';
+        content: "";
         @include svg-arrow($white);
         width: 20px;
         height: 20px;
@@ -508,9 +477,8 @@
 }
 
 .landing-module-4 {
-  background: url('../img/bg-landing-party.jpg') 0 162px no-repeat;
+  background: url("../img/bg-landing-party.jpg") 0 162px no-repeat;
   background-size: cover;
-  
 
   .bottom-section {
     color: $white;
@@ -529,19 +497,17 @@
     padding-left: 0;
 
     li {
-      border-right: 1px solid #F2F2F2;
+      border-right: 1px solid #f2f2f2;
       width: 33.33%;
-      
+
       &:nth-child(2) {
         display: flex;
         justify-content: center;
       }
 
-
       &:first-child span {
         margin-left: 30px;
       }
-
 
       span {
         position: relative;
@@ -549,7 +515,7 @@
         display: block;
 
         &::before {
-          content: '';
+          content: "";
           border-radius: 100%;
           @include svg-circle();
           display: inline-block;
@@ -574,7 +540,7 @@
 
   .banner {
     @include dropshadow();
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 
     .big {
       font-size: 3.9em;
@@ -621,30 +587,28 @@
       }
 
       .red {
-        color: #FF0000;
+        color: #ff0000;
         font-weight: 700;
       }
     }
 
     p.smaller {
-      font-family: 'Roboto', sans-serif;
+      font-family: "Roboto", sans-serif;
     }
   }
 
   @media screen and (max-width: $screen-md-max) {
     .banner {
       flex-direction: column;
-
     }
-    .banner .banner-img, .banner .banner-side {
+    .banner .banner-img,
+    .banner .banner-side {
       width: 100%;
       text-align: center;
     }
   }
 
-
   @media screen and (max-width: $screen-sm-max) {
-
     .bottom-section {
       display: flex;
       flex-direction: column;
@@ -672,7 +636,6 @@
         justify-content: flex-start;
         margin-bottom: 1em;
 
-
         span {
           text-align: left;
           display: inline;
@@ -692,7 +655,6 @@
 }
 
 body #main .landing-module-5 {
-
   h2 {
     font-size: 25px !important;
   }
@@ -711,7 +673,7 @@ body #main .landing-module-5 {
 
   ul {
     list-style: none;
-  } 
+  }
 
   .list-unstyled.list-inline li {
     color: #000000;
@@ -719,7 +681,7 @@ body #main .landing-module-5 {
     font-weight: 700;
 
     &::after {
-      content: '|';
+      content: "|";
       padding-left: 1em;
     }
 
@@ -743,19 +705,17 @@ body #main .landing-module-5 {
 
     strong {
       font-size: 19px;
-      font-family: 'Poppins', sans-serif;
+      font-family: "Poppins", sans-serif;
     }
   }
 
   @media screen and (max-width: $screen-sm-max) {
-
     .container {
-
-    .sidebar-content {
-      margin-top: 2em;
+      .sidebar-content {
+        margin-top: 2em;
+      }
     }
-  }
-  
+
     h2 {
       font-size: 21px !important;
     }

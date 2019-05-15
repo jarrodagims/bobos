@@ -132,7 +132,7 @@ function printPhone() {
 }
 
 //disable tinyMCE
-add_filter( 'user_can_richedit' , '__return_false', 50 );
+// add_filter( 'user_can_richedit' , '__return_false', 50 );
 
 //shorten blog post titles
 function short_title($after = '', $length) {
@@ -154,3 +154,23 @@ function url_shortcode() {
     return bloginfo('url');
 }
 add_shortcode('wpurl','url_shortcode');
+
+/* enable uls as children of H tags */
+function override_mce_options($initArray) {
+	$opts = '+h2[ul],+h3[ul],+h1[ul],+h2[id],+div[span]';
+	$initArray['valid_children'] = $opts;
+	$initArray['extended_valid_elements'] = 'span,span[class],h2[href],h1[href],h3[href],h2[id],h2[class],h1[id],h1[class],h3[id],h3[class]';
+	return $initArray;
+}
+add_filter('tiny_mce_before_init', 'override_mce_options');
+
+
+function mytheme_block_editor_styles() {
+    wp_enqueue_style(
+		'slug-block-editor-styles',
+		get_theme_file_uri( '/css/gutenberg-editor-style.css' ),
+		false
+	);
+}
+
+add_action( 'enqueue_block_editor_assets', 'mytheme_block_editor_styles' );

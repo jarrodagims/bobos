@@ -12,17 +12,19 @@ get_header(); ?>
 
             <p>If you’re looking for a way to plan the perfect birthday party in El Paso, Bob-O’s Family Fun Center can help! Let our team take care of everything so you can have as much fun as possible. Bob-O’s is designed to provide unlimited fun to anyone and everyone. From laser tag and go-karts to an incredible arcade and batting cages, we truly have it all! We also offer excellent birthday party packages to make the planning process as effortless as possible. Make Bob-O’s Family Fun Center your birthday party headquarters!
             </p>
+			
+			<p><strong>Monday-Thursday Parties get 10% off any package!</strong></p>
 
             <a href="https://bobosfun.a.pcsparty.com/bookings/?_ga=2.117101574.1839719463.1539814279-1322542885.1535553428" target="_blank"><button class="btn btn-primary">BOOK NOW!</button></a></div>
         </div>
     </div>
 </div>
-
+	
 <section class="landing-module-1">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="cards-header"><h2>All packages are for <strong>10 CHILDREN</strong> and <br />one birthday child is <strong>FREE</strong></h2></div>
+                <div class="cards-header"><h2>Packages Include <strong>10 Guests</strong> and <br />One <strong>FREE</strong> Guest of Honor <strong>For a total of 11</strong></h2></div>
 
                 <div class="container">
 
@@ -31,15 +33,15 @@ get_header(); ?>
                             <div class="card">
                                 <div class="card-title shadow">
                                     <h3>Package I</h3>
-                                    <p>Basic Party</p>
+                                    <p>Do It All Party</p>
                                 </div>
                             </div>
                         </div>
                         <div class="column">
                             <div class="card">
                                 <div class="card-title card-title-2 shadow">
-                                    <h3>Package II</h3>
-                                    <p>Do-it-all Party </p>
+                                    <h3>Package II - Ages 6+</h3>
+                                    <p>Laser Odyssey Party </p>
                                 </div>
                             </div>
                         </div>
@@ -57,11 +59,10 @@ get_header(); ?>
                             <div class="card shadow">
                                 <div class="card-title visible-xs visible-sm">
                                     <h3>Package I</h3>
-                                    <p>Basic Party</p>
+                                    <p>Do It All Party</p>
                                 </div>
                                 <div class="card-text">
-                                    <p><strong class="price">$169.00</strong>  <strong class="bigger">for the first 11</strong><br />
-                                        <strong>$15 each</strong> additional guest</p>
+                                    <p><strong class="price">$199.00</strong><br /></p>
                                 </div>
 
                                 <div class="card-ribbon">Each Guest Receives:</div>
@@ -69,7 +70,7 @@ get_header(); ?>
                                 <div class="card-list">
                                     <ul>
                                         <li>12 Game Tokens</li>
-                                        <li>3 Outside Attractions*</li>
+                                        <li>1-hour unlimited Attractions* <br>$17.00 each additional child</li>
                                     </ul>
                                 </div>
                             </div>
@@ -79,12 +80,11 @@ get_header(); ?>
                             <div class="card shadow">
                                 <div class="card-title card-title-2 visible-xs visible-sm">
                                     <h3>Package II</h3>
-                                    <p>Do-it-all Party </p>
+                                    <p>Laser Odyssey Party</p>
                                 </div>
 
                                 <div class="card-text">
-                                    <p><strong class="price">$239.00</strong>  <strong class="bigger">for the first 11</strong><br />
-                                        <strong>$18 each</strong> additional guest</p>
+                                    <p><strong class="price">$249.00</strong><br /></p>
                                 </div>
 
                                 <div class="card-ribbon">Each Guest Receives:</div>
@@ -92,8 +92,7 @@ get_header(); ?>
                                 <div class="card-list">
                                     <ul>
                                         <li>12 Game Tokens</li>
-                                        <li>2 Outside Attractions*</li>
-                                        <li>2 Laser Odyssey Missions</li>
+                                        <li>2 Laser Odyssey Missions <br>One Laser Odyssey T-Shirt for Guest of Honor <br>$19.00 each additional child</em></li>
                                     </ul>
                                 </div>
                             </div>
@@ -107,8 +106,7 @@ get_header(); ?>
                                     <p>Ultimate Party</p>
                                 </div>
                                 <div class="card-text">
-                                    <p><strong class="price">$299.00</strong>  <strong class="bigger">for the first 11</strong><br />
-                                        <strong>$21 each</strong> additional guest</p>
+                                    <p><strong class="price">$299.00</strong><br /></p>
                                 </div>
 
                                 <div class="card-ribbon">Each Guest Receives:</div>
@@ -116,9 +114,7 @@ get_header(); ?>
                                 <div class="card-list">
                                     <ul>
                                         <li>12 Game Tokens</li>
-                                        <li>2 Hours of Unlimited</li>
-                                        <li>Outside Attractions*</li>
-                                        <li>1 Laser Odyssey Mission</li>
+                                        <li>2 Hours of Unlimited Attractions* <br>$22.00 each additional child</li>
                                     </ul>
                                 </div>
                             </div>
@@ -131,9 +127,9 @@ get_header(); ?>
                             <div class="bottom-section">
                                 <strong class="header">An attraction includes:</strong>
                                 <ul>
-                                    <li>Go-Karts, Mini Go-Karts, Bumper</li>
-                                    <li>Boats, Mini Golf, Dizzy Drums,</li>
-                                    <li>Flying Banana, & Train Ride.</li>
+                                    <li>Golf, Go-Karts, Bumper Boats,</li>
+                                    <li>Mini Go-Karts, Dizzy Drums,</li>
+                                    <li>Flying Banana, &amp; Train</li>
                                 </ul>
 
                                 <a href="https://bobosfun.a.pcsparty.com/bookings/?_ga=2.117101574.1839719463.1539814279-1322542885.1535553428"  target="_blank">
@@ -141,36 +137,9 @@ get_header(); ?>
                                 </a>
                             </div>
                         </div>
-                        <div class="column">
-
-                            <div class="bottom-section">
-                                <strong class="header">An attraction includes:</strong>
-                                <ul>
-                                    <li>Go-Karts, Mini Go-Karts, Bumper</li>
-                                    <li>Boats, Mini Golf, Dizzy Drums,</li>
-                                    <li>Flying Banana, & Train Ride.</li>
-                                </ul>
-                            </div>
-
-                        </div>
-                        <div class="column">
-                            <div class="card-bottom">
-                                <p><strong class="header">An attraction includes:</strong>
-                            Go-Karts, Mini Go-Karts, Bumper
-                            Boats, Mini Golf, Dizzy Drums, Flying
-                            Banana, & Train Ride.<br /><br />
-                                
-
-                            <strong>1 Laser Odyssey T-Shirt for Birthday <br />
-                                Child (One Per Package)</strong></p>
-                            
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
-
-
-
             </div>
         </div>
     </div>
@@ -191,98 +160,27 @@ get_header(); ?>
 <section class="landing-module-2">
     <div class="container">
         <div class="row">
-                    <div class="col-md-4 col side">
+                    <div class="col-md-12 col flex-row">
+						<div class="col">   
                         <p><strong class="header">3 XL One Topping Pizzas</strong>
                             <span>(For Paid Party Guests)</span></p>
 
                         <p><strong class="header">Unlimited Fountain Drinks</strong>
                             <span>(For Paid Party Guests)</span></p>
 
-                        <strong class="header">A Party Host To Serve & Assist <br />Space Reserved For 2 Hours</strong>
+                        <strong class="header">A Party Host To Serve &amp; Assist <br />Space Reserved For 2 Hours</strong>
+						</div>
+						<div class="col">  
+						<strong class="header">Party Set-Up Complete w/ Tablecloths, Plates, Napkins &amp; Forks</strong>
 
-                        <strong>$25 Non-refundable Deposit Required</strong>
-                        <p><span>All Prices Subject To Change / Sales Tax<br />
-                                Included In All Prices</span></p>
-
+                        <strong>$25 <strong>Non-Refundable</strong> Deposit Required</strong>
+                        <p><span>All Prices Subject To Change / Sales Tax<br /> Included In All Prices</span></p>
+						</div>
                     </div>
-                    <div class="col-md-8 col flex-row">
-                        <div class="col">
-                            <strong class="header line">With any birthday party package<br />you may add the following:</strong>
-
-                            <p>Autograph Birthday Cake w/Sharpie
-                                <span class="brand">$10.00 each</span></p>
-
-                            <p>Laser Odyssey Missions
-                                <span class="brand">$4.50 each</span></p>
-
-                            <p>Laser Odyssey T-Shirt
-                                <span class="brand">$13.00 each</span></p>
-                        </div>
-
-                        <div class="col">
-                            <strong class="header line"><br />For the Adults:</strong>
-                            <p>XL One Topping Pizzas
-                                <span class="brand">$14.00 each </span>
-                                <span class="brand">$1.00 each additional topping</span></p>
-
-                            <p>Large Cups (refillable)
-                                <span class="brand">$2.50 each </span></p>
-
-                            <p>Small Cups (refillable)
-                                <span class="brand">$2.00 each</span></p>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
 </section>
-
-
-<section class="landing-module-3">
-    <div class="container">
-        <div class="row flex-row">
-            <div class="flex-col col-sm-6 col-md-8">
-				<div class="row" id="food">
-					
-					<img src="/wp-content/uploads/2018/11/Veggie.Platter.jpg">
-					<img src="/wp-content/uploads/2018/11/ChipsnSalsa.Platter.jpg">
-					<img src="/wp-content/uploads/2018/11/SaladBowl.jpg">
-					
-				</div>
-				<div class="row" id="food">
-					
-					<img src="/wp-content/uploads/2018/11/Fruit.Platter.jpg">
-					<img src="/wp-content/uploads/2018/11/Wing.Platter.jpg">
-						
-				</div>
-                <strong class="header" style="margin-top: 1em;">*All platter orders must be placed and/or cancelled 72 hours' in advance.</strong>
-                <p>If you fail to cancel your platters with 72 hours' notice, you will still be charged for them on your final bill.</p>
-
-                <a href="https://bobosfun.a.pcsparty.com/bookings/?_ga=2.117101574.1839719463.1539814279-1322542885.1535553428" target="_blank">
-                    <button class="btn btn-primary">BOOK ONLINE OR CALL 915-587-6070</button>
-                </a>
-            </div>
-
-            <div class="flex-col col-sm-6 col-md-4">
-                <div class="box"><p><strong class="header arrow">Veggie Platter</strong>
-                (serves 10-12) <span class="brand">$20.00 each</span></p>
-
-                <p><strong class="header arrow">Chips &amp; Salsa Platter</strong>
-                (serves 10-12) <span class="brand">$15.00 each</span></p>
-
-                <p><strong class="header arrow">Salad Bowl</strong>
-                (2-3lbs. served w/dressing) <span class="brand">$20.00 each</span></p>
-				
-				<p><strong class="header arrow">Fruit Platter</strong>
-                (serves 10-12) <span class="brand">$30.00 each</span></p>  
-					
-				<p><strong class="header arrow">Wing Platter</strong>
-                (36 wings w/ranch)<span class="brand">$30.00 each</span></p>
-				</div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <section class="landing-module-4">
     <div class="container">
         <div class="row">
@@ -304,27 +202,109 @@ get_header(); ?>
 
                 <div class="bottom-section"><p>You may bring the following:</p>
 
-                <ul class="flex-row">
-                    <li class="col">
-                        <span>Birthday Cake<br />
-                            (NO ICE CREAM CAKES)</span>
-                    </li>
-                    <li class="col">
-                        <span>Themed Decorations<br />
-                            & Goody Bags</span>
-                    </li>
-                    <li class="col">
-                        <span>*We <strong>DO NOT</strong> allow any<br />
-                            other outside food.</span>
-                    </li>
-                </ul>
+					<ul class="flex-row">
+						<li class="col">
+							<span>Birthday Cake<br />
+								(<strong>NO</strong> ICE CREAM CAKES)</span>
+						</li>
+						<li class="col">
+							<span>Themed Decorations<br />
+								&amp; Goody Bags (NO OUTSIDE CUPS)</span>
+						</li>
+						<li class="col">
+							<span>*We <strong>DO NOT</strong> allow any<br />
+								other outside food.</span>
+						</li>
+					</ul>
+					
                 </div>
+				
+				
+				<div class="bottom-section" style="padding-top: 0;"><p>With any birthday party package you may add the following:</p>
+
+					<ul class="flex-row">
+						<li class="col">
+							<span>Autograph Birthday Cake w/Sharpie<br><strong>$10.00 each</strong></span>
+						</li>
+						<li class="col">
+							<span>Laser Odyssey Missions
+									<br>
+								<strong>$5.00 each</strong></span>
+						</li>
+						<li class="col">
+							<span>Laser Odyssey T-Shirt<br> <strong>$15.00 each</strong></span>
+						</li>
+					</ul>
+					
+                </div>
+				
             </div>
 
 
             </div>
         </div>
 </section>
+
+
+<section class="landing-module-3">
+    <div class="container">
+        <div class="row flex-row">
+            <div class="flex-col col-sm-6 col-md-8">
+				<div class="row" id="food">
+					
+					<img src="/wp-content/uploads/2018/11/Veggie.Platter.jpg">
+					<img src="/wp-content/uploads/2018/11/ChipsnSalsa.Platter.jpg">
+					<img src="/wp-content/uploads/2018/11/SaladBowl.jpg">
+					
+				</div>
+				<div class="row" id="food">
+					
+					<img src="/wp-content/uploads/2018/11/Fruit.Platter.jpg">
+					<img src="/wp-content/uploads/2018/11/Wing.Platter.jpg">
+						
+				</div>
+                <strong class="header text-center" style="margin-top: 1em;">*All platter orders must be placed <br>and/or cancelled 72 hours in advance.</strong>
+                <p class="text-center">If you fail to cancel your platters with 72 hours notice,<br> you will still be charged for them on your final bill.</p>
+				<br/><br/>
+                <a href="https://bobosfun.a.pcsparty.com/bookings/?_ga=2.117101574.1839719463.1539814279-1322542885.1535553428" target="_blank">
+                    <button class="btn btn-primary">BOOK ONLINE OR CALL 915-587-6070</button>
+                </a>
+            </div>
+
+            <div class="flex-col col-sm-6 col-md-4">
+                <div class="box">
+				<h2>For the Adults</h2>	
+					
+				<p><strong class="header arrow">XL Pizzas</strong>
+                (One Topping) <span class="brand">$14.00 each</span> 
+				<br><span class="fa-sm">Each Additional Topping</span><span class="brand"> $1.50</span></p>     
+				
+				<p><strong class="header arrow">Large Fountain Drink </strong>
+                (free refills) <span class="brand">$3.00 each</span><br><span class="fa-sm">Small Fountain Drink (free refills) </span><span class="brand">$2.50</span></p>     
+					
+				<p><strong class="header arrow">Veggie Platter</strong>
+                (serves 10-12) <span class="brand">$20.00 each</span></p>                          
+				
+				<p><strong class="header arrow">Fruit Platter</strong>
+                (serves 10-12) <span class="brand">$30.00 each</span></p>  
+					
+				<p><strong class="header arrow">Chips &amp; Salsa Platter</strong>
+                (serves 10-12) <span class="brand">$15.00 each</span></p>     
+					
+				<p><strong class="header arrow">Salad Bowl</strong>
+                (2-3lbs. served w/dressing) <span class="brand">$20.00 each</span></p>	
+					
+				<p><strong class="header arrow">Wing Platter</strong>
+                (5lbs. served w/ranch)<span class="brand"> $35.00 each</span></p>
+				</div>
+            </div>
+			
+			
+        </div>
+    </div>
+</section>
+
+
     <div id="main">
 <section class="landing-module-5">
     <div class="container">
@@ -346,44 +326,47 @@ get_header(); ?>
                             </section>
                         </div>
                         <div class="content page-content">
-                            <h2>
-                                What You Should Know Before Booking
-                            </h2>
+                            <h2>General Party Information</h2>
 
-                            <p>All parties must be booked 72 hours in advance with a $25, NON-REFUNDABLE <br />
+                            <p>All parties must be booked <strong>72 hours</strong> in advance with a $25, <strong>NON-REFUNDABLE</strong> <br />
                                 deposit. If you need to cancel your party, you will forfeit your deposit.<br />
-                                We accept cash, Visa, MasterCard, American Express & Discover only.<br />
-                                No personal checks!<br />
-                                Party space is reserved for 2 hours from reserved time; please stress<br />
-                                promptness to your guests.<br />
-                                Each child will receive one cup for unlimited fountain drinks.<br />
-                                Reserved seating is for children. We are unable to accommodate overflow from<br />
-                                unexpected guests.
+                                We accept cash, Visa, MasterCard, American Express &amp; Discover ONLY.<strong><br />No personal checks!</strong><br />
+                                <strong>Party space is reserved for 2 hours from reserved time</strong>; please stress<br /> promptness to your guests.<br />
+                                <strong>Reserved seating is for children.</strong> We are unable to accommodate overflow from<br /> unexpected guests.
                             </p>
 
-                            <h2>
-                                Party Tips for the Parents | Survival Guide & Invitations
-                            </h2>
+                            <h2>Party Tips for the Parents | Survival Guide &amp; Invitations</h2>
 
                             <p>
-                                <a href="/wp-content/uploads/2018/11/ParentSurvivalGuide.Nov_.2018.pdf" target="_blank">Click Here</a> to view/print the Party Parent Survival Guide<br />
+                                <a href="http://bobosfun.com/wp-content/uploads/2019/01/ParentSurvivalGuide.Feb2019.pdf" target="_blank">Click Here</a> to view/print the Party Parent Survival Guide<br />
                                 <a href="/wp-content/uploads/2018/10/Birthday.Invite.pdf" target="_blank">Click Here</a> to view/print Birthday Party Invitations
                             </p>
+							
+							<a href="https://bobosfun.com/wp-content/uploads/2019/01/Birthday.Flyer_.Feb2019.pdf"  target="_blank">
+                                <button class="btn btn-primary">Birthday Package Information</button>
+                            </a>
+							<br/><br/>
 
-                            <h2>All Children Must Meet Minimum Height and Age Requirements</h2>
+                            <h2>Attractions: All Children Must Meet Minimum Height and Age Requirements</h2>
 
                             <ul class="list-unstyled">
-                                <li><strong>Go-Karts</strong> drivers must be at least 58"</li>
-                                <li><strong>Double Go-Karts:</strong> drivers must be at least 58" and 18-years-old; passengers must be at least 40" Two adults may not ride together on the double go-karts or bumper boats
-                                </li>
-                                <li><strong>Mini Go-Karts:</strong> drivers must be at least 45"</li>
-                                <li><strong>Dizzy Drums:</strong> must be at least 35'' (Between 35" and 44" must ride with an adult)</li>
-                                <li><strong>Bumper Boats:</strong> drivers must be at least 45"; passengers must be at least 40" with an
-                                    18-year-old driver
-                                </li>
-                                <li><strong>Flying Banana:</strong> must be between 30" and 58" Train: must be between 30" and 58"</li>
+                                <li><strong>Go-Karts</strong> drivers must be at least 58”</li>
+                                <li><strong>Double Go-Karts:</strong>  drivers must be at least 58” and 18 years old; passengers must be at least 40” Two adults may not ride together on the double go-karts or bumper boats</li>
+                                <li><strong>Mini Go-Karts:</strong>  drivers must be at least 45”</li>
+                                <li><strong>Dizzy Drums:</strong> must be at least 45’’ (Between 35” and 45” must ride with an adult)</li>
+                                <li><strong>Bumper Boats:</strong> drivers must be at least 45”; passengers must be at least 40” with an 18 year old driver</li>
+                                <li><strong>Flying Banana:</strong> must be between 30”and 58”</li>
+								<li><strong>Train:</strong> must be between 30” and 58”</li>
                                 <li><strong>Laser Tag:</strong> players must be at least 6 years old</li>
                             </ul>
+							<p>An adult may drive a child on the boats or go-karts (if the child does not meet<br/>
+							the height requirements) with a	passenger ticket ($2.00 each) on Package I or III.<br/>
+							No refunds in the event of bad weather.<br/>
+							Gratuity is appreciated for exceptional service.</p>
+							<p><em>*Discounts <strong>cannot</strong> be combined</em></p>
+							<p><strong>*WE DO NOT PERMIT PINATAS, CONFETTI, OR SILLY STRING*</strong><br/>
+							<strong>PARTICIPATE AT YOUR OWN RISK</strong><br/>
+							No Refunds / Prices subject to change / Tax included</p>
 
                             <div class="banner banner-bottom">
                                 <?php if (has_post_thumbnail( $post->ID ) ):
@@ -414,7 +397,7 @@ get_header(); ?>
                                 <li>Mini Golf</li>
                                 <li>Dizzy Drums</li>
                                 <li>Flying Banana</li>
-                                <li>Train Ride</li>
+                                <li>Train</li>
                             </ul>
 
                             <a href="https://bobosfun.a.pcsparty.com/bookings/?_ga=2.117101574.1839719463.1539814279-1322542885.1535553428"  target="_blank">
@@ -428,6 +411,8 @@ get_header(); ?>
         </div>
     </div>
 </section>
-    </div>
+    </div>	
+	
+
 
 <?php get_footer(); ?>

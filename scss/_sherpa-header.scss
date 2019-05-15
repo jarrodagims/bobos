@@ -9,7 +9,7 @@
     padding-bottom: 8px;
     display: flex !important;
     justify-content: center;
-    
+
     .navbar-brand img {
       height: 55px;
       width: auto;
@@ -27,7 +27,7 @@
 
 @media screen and (min-width: $screen-sm-min) {
   .sub-header.top-header {
-    background: #FFFFFF;
+    background: #ffffff;
     padding: 0 0;
     overflow: visible;
   }
@@ -40,9 +40,9 @@
     padding: 0 0 0;
   }
 
-//   .menu-primary-container {
-//     margin: 0 0 0;
-//   }
+  //   .menu-primary-container {
+  //     margin: 0 0 0;
+  //   }
 
   .navbar-sherpa .nav > li > a {
     color: $white;
@@ -58,10 +58,8 @@
     text-transform: none;
     min-height: 0;
     margin-top: 0;
-
   }
 }
-
 
 @media screen and (min-width: $screen-lg-min) {
   .navbar-sherpa .nav > li > a {
@@ -69,14 +67,13 @@
   }
 }
 
-
 .breadcrumbs {
   background: #f3f4f6;
 
   a {
     color: #666;
   }
-  
+
   p {
     margin: 1em 0;
     font-size: 12px;
@@ -128,8 +125,6 @@
   }
 
   @media screen and (min-width: $screen-lg-min) {
-    
-
     #header-logo {
       display: none;
     }
@@ -148,8 +143,6 @@
   @media screen and (max-width: $grid-float-breakpoint-max) {
     padding: 0 0;
 
-    
-
     .sub-header.top-header {
       background: $sherpa-dark-color;
     }
@@ -159,8 +152,6 @@
       text-align: center;
       align-items: center;
       height: 42px;
-
-      
 
       .navbar-brand {
         float: left;
@@ -173,35 +164,29 @@
   }
 }
 
-.page-template-default, .blog, .error404, .post-template-default, .page-template-page-landing {
-
-//   @media screen and (min-width: $screen-md-min) {
-//       .sub-header {
-//         background: #F7F7F7;
-//       }
-//   }
-
-
-
+.page-template-default,
+.blog,
+.error404,
+.post-template-default,
+.page-template-page-landing,
+.page-template-page-landing-es {
+  //   @media screen and (min-width: $screen-md-min) {
+  //       .sub-header {
+  //         background: #F7F7F7;
+  //       }
+  //   }
 
   @media screen and (max-width: $grid-float-breakpoint-max) {
-
-
     .top-header a.arrow {
       color: #606060;
     }
 
-      .navbar-sherpa .navbar-toggle {
-      
-
-        .icon-bar {
-          background: #FFFFFF;
-        }
+    .navbar-sherpa .navbar-toggle {
+      .icon-bar {
+        background: #ffffff;
       }
+    }
   }
-
-
-
 }
 
 #header {
