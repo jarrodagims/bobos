@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "dependencies": {
     "imagemin": "^5.3.1",
-    "imagemin-pngcrush": "^5.1.0",
+    "imagemin-pngcrush": "^6.0.0",
     "postcss": "^6.0.23",
     "postcss-cli-simple": "^1.0.4"
   },
