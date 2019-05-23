@@ -1,9 +1,9 @@
 <?php
 	if(have_posts()) {
     	?>
-<div class="flex-wrap">
+        	<div class="flex-wrap">
 
-    <?php
+    	<?php
 		while(have_posts()) {
 			the_post();
 
@@ -30,26 +30,26 @@
 			echo "<article>";
 			if(!empty($thumb_url)):
 			?>
-    <a href="<?=$permalink?>">
-        <img src="<?=$thumb_url?>" alt="<?=get_the_title()?>" class="blog-pic" />
-    </a>
+			<a href="<?=$permalink?>">
+			<img src="<?=$thumb_url?>" alt="<?=get_the_title()?>" class="blog-pic" />
+			</a>
 
-    <?php
+			<?php
 			endif;
 			echo '<h3><a href="' . $permalink . '">';
-            echo the_title();
+            echo short_title('...', 5);
             echo '</a>' . $edit_link . '</h3>';
             sherpa_excerpt();
 			echo "</article>";
 		}
 		?>
 
-</div>
-<div class="col-sm-6 text-sm-left text-xs-center">
-    <?php previous_posts_link( 'Newer posts' ); ?>
-</div>
-<div class="col-sm-6 text-sm-right text-xs-center">
-    <?php next_posts_link( 'Older posts' ); ?>
-</div>
-<?php
+        	</div>
+        	<div class="col-sm-6 text-sm-left text-xs-center">
+            	<?php previous_posts_link( 'Newer posts' ); ?>
+        	</div>
+        	<div class="col-sm-6 text-sm-right text-xs-center">
+            	<?php next_posts_link( 'Older posts' ); ?>
+        	</div>
+		<?php
 	}
